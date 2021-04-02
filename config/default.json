@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://greenmug:Bluefairy1@cluster0.zmwgv.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "mytoken"
+}
